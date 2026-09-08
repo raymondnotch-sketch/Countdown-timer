@@ -38,23 +38,6 @@
 └── script.js     # Timer state logic, interval handlers & DOM updates
 ```
 
-## Getting Started
-
-### Run Locally
-
-1. Open `02-countdown-timer/index.html` directly in a modern browser.
-2. If preferred, serve the folder locally:
-   - `python3 -m http.server --directory 02-countdown-timer`
-   - `php -S localhost:8000 -t 02-countdown-timer`
-   - `npx serve 02-countdown-timer`
-
-No build step is required.
-
-### Host on GitHub Pages
-
-1. Push the `02-countdown-timer` folder into a repository.
-2. In repository settings, enable GitHub Pages for the desired branch/folder.
-3. Load the published URL to use the timer online.
 
 ## Usage
 
