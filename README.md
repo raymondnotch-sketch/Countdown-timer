@@ -21,6 +21,11 @@
   - Pure, vanilla HTML5, CSS3, and modern ES6 JavaScript.
   - No frameworks, no build step, no external assets.
 
+## Live Demo
+
+[View Live Application](https://raymondnotch-sketch.github.io/Countdown-timer/)
+
+
 ## Tech Stack
 
 | Layer | Technology |
